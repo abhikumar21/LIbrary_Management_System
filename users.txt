@@ -1,0 +1,7 @@
+S101,Abhishek Kumar,3040
+S103,Aman,0
+F201,Faizal Khan,0
+F203,Dr. Kaushik,0
+F202,Dr. Verma,0
+L101,Admin,0
+S102,Rahul,0

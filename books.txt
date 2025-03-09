@@ -1,0 +1,23 @@
+Data Structures in C++,Mark Weiss,Pearson,1990,1001,0
+Operating System Concepts,Silberschatz,McGraw-Hill,1990,1002,1
+Introduction to Algorithms,CLRS,MIT Press,1990,1003,1
+Database System Concepts,Silberschatz,McGraw-Hill,1990,1004,1
+Computer Networks,Andrew Tanenbaum,Pearson,1990,1005,1
+Artificial Intelligence,Stuart Russell,Pearson,1990,1006,1
+Software Engineering,Ian Sommerville,Pearson,1990,1007,1
+Discrete Mathematics,Kenneth Rosen,McGraw-Hill,1990,1008,1
+Python Crash Course,Eric Matthes,No Starch Press,1990,1009,1
+Deep Learning,Ian Goodfellow,MIT Press,1990,1010,1
+C++ Primer,Lippman,Addison-Wesley,1990,1011,1
+Java: The Complete Reference,Herbert Schildt,McGraw-Hill,1990,1012,1
+Computer Architecture,Hennessy,Elsevier,1990,1013,1
+Machine Learning,Tom Mitchell,McGraw-Hill,1990,1014,1
+Cybersecurity Essentials,Charles Brooks,Sybex,1990,1015,1
+Digital Logic Design,Morris Mano,Pearson,1990,1016,1
+Quantum Computing,Nielsen & Chuang,Cambridge,1881,1017,1
+Cloud Computing,Rajkumar Buyya,McGraw-Hill,1881,1018,1
+Blockchain Basics,Daniel Drescher,Apress,1881,1019,1
+Human-Computer Interaction,Alan Dix,Pearson,1881,1020,1
+Harry Potter,JK Rowling,Bloomsbury,1770,1021,1
+Helen,Helen,random,1999,1024,2
+The Alchemist,Pablo Coelho,Rocco,1988,1025,2
